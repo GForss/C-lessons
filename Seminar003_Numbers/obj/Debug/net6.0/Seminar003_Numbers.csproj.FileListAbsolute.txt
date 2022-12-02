@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\bin\Debug\net6.0\Seminar003_Numbers.exe
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\bin\Debug\net6.0\Seminar003_Numbers.deps.json
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\bin\Debug\net6.0\Seminar003_Numbers.runtimeconfig.json
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\bin\Debug\net6.0\Seminar003_Numbers.dll
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\bin\Debug\net6.0\Seminar003_Numbers.pdb
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.dll
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\refint\Seminar003_Numbers.dll
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.pdb
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\Seminar003_Numbers.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Examples\Seminar003_Numbers\obj\Debug\net6.0\ref\Seminar003_Numbers.dll
