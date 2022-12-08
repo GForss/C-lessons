@@ -14,8 +14,3 @@ int[] arr(int size) {
 }
 
 WriteLine(String.Join(",", arr(8)));
-
-
-
-
-
