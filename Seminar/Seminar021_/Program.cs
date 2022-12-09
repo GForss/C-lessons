@@ -20,12 +20,10 @@ int Bro(int[] array) {
 
     int itog = 0;
 
-    for (int i = 0; i < array.Length; i++) {
-
-        if (array[i] > 10 && array[i] < 99) {
+    foreach (int item in array) {
+       if (item >= 10 && item <= 99) {
             itog++;
         }
-        
     }
     return itog;
 }
