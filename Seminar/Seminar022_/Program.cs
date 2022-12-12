@@ -15,20 +15,20 @@ int[] MinArr(int size) {
     return arr;
 }
 
-int Perebor(int[] mas) {
+int[] last = Perebor(array);
 
-    int beginning = 0;
-    int end = mas.Length;
-    int print = 0;
-    string theEnd = "Конец";
+int[] Perebor(int[] mas) {
 
-    for (int i = 0; i < mas.Length / 2; i++){
-        print = mas[i] * mas[(mas.Length - 1) - i];
-        WriteLine(print);
-        
+    int size = mas.Length / 2;
+    int[] print = new int[size];
+
+    for (int i = 0; i < size; i++){
+        print[i] = mas[i] * mas[(mas.Length - 1) - i]; 
     }
-    return theEnd;
+    return print;
 }
 
+
+
 WriteLine(String.Join(",", array));
-WriteLine(Perebor(array));
+WriteLine(String.Join(",", last));
